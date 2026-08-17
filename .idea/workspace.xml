@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14319393-08dc-4b32-9898-85443cbf2718" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Bakery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bakery.iml" afterDir="false" />
+    <list default="true" id="14319393-08dc-4b32-9898-85443cbf2718" name="Changes" comment="added explorery.py">
+      <change afterPath="$PROJECT_DIR$/src/fake/baker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/baker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/pastry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/explorer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/explorer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/fake/pastry.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +58,11 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Bakery\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,6 +78,19 @@
       <option name="presentableId" value="Default" />
       <updated>1786955308595</updated>
     </task>
+    <task id="LOCAL-00001" summary="added explorery.py">
+      <option name="closed" value="true" />
+      <created>1786956819611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786956819611</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added explorery.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added explorery.py" />
   </component>
 </project>
